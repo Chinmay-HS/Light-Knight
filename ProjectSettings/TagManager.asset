@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: 3
+    uniqueID: 393938655
+    locked: 0
+  - name: 2
+    uniqueID: 2903142525
+    locked: 0
+  - name: 1
+    uniqueID: 811759489
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Rocks
+    uniqueID: 3503711319
+    locked: 0
+  - name: Water
+    uniqueID: 2870544163
+    locked: 0
+  - name: Props
+    uniqueID: 242477213
+    locked: 0
+  - name: Ground
+    uniqueID: 309728203
     locked: 0
